@@ -1,5 +1,11 @@
 
-# Fake News Detection System
+# Fake News Detection System Research Paper
+
+Submitted by:
+2210991139(Aayushi Mittal)
+2210991172(Abhishek Rana)
+
+Current status:Working Project
 
 A machine learning–based fake news detection system that classifies news articles as **Fake** or **Real** using **TF‑IDF features** and a **Linear Support Vector Machine (SVM)**.  
 The system is deployed as a simple and interactive **Streamlit web application**.
